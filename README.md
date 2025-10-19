@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate AI/ML Powering Android developer from India</h3>
+<h3 align="center"> Software Developer | Full-Stack Android developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=robinrb7&label=Profile%20views&color=0e75b6&style=flat" alt="robinrb7" /> 
@@ -21,44 +21,45 @@
     <td align="center">
       <h3>Languages and Tools:</h3>
       <p>
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-        </a>
+        <!-- Programming Languages -->
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
         </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-        </a>
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
         </a>
-        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-        </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> 
         </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+        <!-- Mobile Development -->
+         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/> 
         </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+          <img src="https://logidots.com/wp-content/uploads/2021/08/JetpackCompose_logo.png" alt="Jetpack Compose" width="70" height="80"/> 
         </a>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+        <a href="https://developers.google.com/maps/documentation/android-sdk/" target="_blank" rel="noreferrer"> 
+          <img src="https://ubilabs.com/media/pages/google-maps/api-sdk/790a2bc091-1695915127/google-maps-platform-icon-color.png" alt="Google Maps SDK" width="40" height="40"/> 
         </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+        <!-- Backend & Databases -->
+        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+          <img src="https://tse2.mm.bing.net/th/id/OIP.vyMp89svBdH47FavLVhQAwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" width="45" height="45"/> 
         </a>
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="50"/> 
+        </a>
+        <!-- Tools & Platforms -->
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+          <img src="https://logowik.com/content/uploads/images/intellij-idea286.logowik.com.webp" alt="IntelliJ IDEA" width="60" height="60"/> 
+        </a>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+        </a>
+        <a href="https://render.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" alt="Render" width="40" height="40"/> 
         </a>
       </p>
     </td>
