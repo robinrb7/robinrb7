@@ -36,7 +36,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/> 
         </a>
         <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-          <img src="https://logidots.com/wp-content/uploads/2021/08/JetpackCompose_logo.png" alt="Jetpack Compose" width="70" height="80"/> 
+          <img  src="https://github.com/user-attachments/assets/52ada39e-6452-4ce1-a63b-7e2772e08f68" alt="Jetpack Compose" width="60" height="60"/> 
         </a>
         <a href="https://developers.google.com/maps/documentation/android-sdk/" target="_blank" rel="noreferrer"> 
           <img src="https://ubilabs.com/media/pages/google-maps/api-sdk/790a2bc091-1695915127/google-maps-platform-icon-color.png" alt="Google Maps SDK" width="40" height="40"/> 
