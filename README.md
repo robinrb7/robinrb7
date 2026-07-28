@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center"> Software Developer | Full-Stack Android developer from India</h3>
+<h3 align="center"> Software Development Engineer | Java Backend Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=robinrb7&label=Profile%20views&color=0e75b6&style=flat" alt="robinrb7" /> 
@@ -66,6 +66,4 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinrb7&show_icons=true&locale=en&layout=compact" alt="robinrb7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinrb7&" alt="robinrb7" /></p>
