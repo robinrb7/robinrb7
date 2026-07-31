@@ -60,6 +60,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinrb7&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="left">Connect with me</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/robinrb7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
